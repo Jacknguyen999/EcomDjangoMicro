@@ -1,0 +1,4 @@
+*.sock
+.env
+.vscode
+debug.py
